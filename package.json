@@ -4,7 +4,9 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "jest"
+        "test": "jest",
+        "coverage": "jest --coverage",
+        "jestwatch": "jest --watch"
     },
     "author": "CHOI DAE GEON",
     "license": "ISC",
